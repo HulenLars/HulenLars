@@ -7,10 +7,15 @@
 
 <h2>👨‍💻 System Administration Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/HulenLars/HLADHL)
+- <b>Data Structures and Algorithms Practice</b>
+  - [Active Directory Home Lab](https://github.com/HulenLars/TBD)
  
-<h2>📺 Popular YouTube Videos</h2>
+<h2>:lock: Security Projects:</h2>
+
+- <b>IDS/IPS Practice</b>
+  - [Examining Alerts, Logs, & Rules with Suricata](https://github.com/HulenLars/TBD)
+
+<h2>📺 Popular YouTube Videos:</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
