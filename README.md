@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Collin! <br/><a href="https://github.com/joshmadakor1">Aspiring System Administrator</a>, <a href="https://www.linkedin.com/in/collin-huling-29321b1bb/"></a></h1>
+
+<h2>✨ Certifications:</h2>
+
+- <b>Google Cybersecurity Professional - 9/12/23</b>
+  - [Active Directory Home Lab](https://github.com/HulenLars/HLADHL)
+
+<h2>👨‍💻 System Administration Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Active Directory Home Lab](https://github.com/HulenLars/HLADHL)
+ 
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <!--
-**HulenLars/HulenLars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Need to edit the above to be in line with active projects that have been completed**
 
 Here are some ideas to get you started:
 
